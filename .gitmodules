@@ -1,0 +1,3 @@
+[submodule "chuck-external"]
+	path = chuck-external
+	url = https://github.com/ccrma/chuck.git
